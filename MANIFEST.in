@@ -1,0 +1,4 @@
+include socks.py
+include BUGS
+include LICENSE
+include README
