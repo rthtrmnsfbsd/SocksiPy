@@ -12,5 +12,5 @@ setup(
     url='http://pypi.python.org/pypi/SocksiPy/',
     license='LICENSE',
     description='SocksiPy',
-    long_description=open('README.txt').read(),
+    long_description=open('README').read(),
 )
