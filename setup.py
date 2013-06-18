@@ -7,7 +7,7 @@ setup(
     version='1.00',
     author='Dan-Haim',
     author_email='negativeiq@users.sourceforge.net',
-    packages=find_packages(),
+    py_modules=['socks'],
     include_package_data=True,
     url='http://pypi.python.org/pypi/SocksiPy/',
     license='LICENSE',
